@@ -1,6 +1,23 @@
 # Revu
 
-Revu is a local-first macOS study app for decks, cards, exams, study guides, and FSRS-based review sessions. This public repository contains only the macOS application and its tests.
+Revu is a polished, local-first macOS study app for decks, cards, exams, study guides, and FSRS-based review sessions. It is opinionated in a good way: fast keyboard-friendly workflows, a dense but calm desktop UI, strong study primitives, and a structure that makes serious studying feel organized instead of chaotic.
+
+This public repository contains the standalone macOS application and its tests. It is an older branch of the product that I decided to open source because it is still a genuinely useful app and a solid codebase for people who care about local-first software, SwiftUI desktop apps, and spaced-repetition tooling.
+
+## A Note From The Company
+
+Revu is my company. The current product continues to evolve separately, and the newer version lives at [revu.cards](https://revu.cards).
+
+This repository is an older version of the app, published deliberately as a gift to the open-source community. I did not want this work to disappear into a private archive when there was still a lot here that could be useful, interesting, or inspiring to other builders. If you want the newest commercial product, go to [revu.cards](https://revu.cards). If you want a capable local-first macOS study app that you can inspect, modify, and learn from, this repo is for you.
+
+## Why This App Is Cool
+
+- It is built around real study workflows instead of toy flashcard demos.
+- It combines decks, cards, exams, study guides, folders, review history, and forecasting in one coherent desktop app.
+- It uses FSRS-based scheduling, so the review engine is not just cosmetic.
+- It is local-first, which means the app is fast, self-contained, and usable without hosted infrastructure.
+- It has a thoughtful SwiftUI macOS interface with a real design system behind it.
+- It is the kind of app that feels substantial: not just a single feature, but a full study workspace.
 
 ## What’s Included
 
@@ -71,6 +88,10 @@ Key paths inside that directory:
 - The app is local-first. It should build and run without environment variables.
 - Public-safe bundle identifiers and URL handling are already stripped of private auth flows.
 - If you add new UI, use the design tokens in `Revu/Revu/Support/DesignSystem.swift`.
+
+## Open-Source Scope
+
+This repo is intentionally the macOS app only. The hosted product, website, backend systems, authentication, billing, sync, and newer commercial product work are not part of this repository. The goal here is to preserve and share a strong standalone version of Revu that can live on its own as open-source software.
 
 ## License
 
