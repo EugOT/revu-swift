@@ -1,0 +1,71 @@
+{
+  "schema": "revu.flashcards",
+  "version": 1,
+  "exportedAt": "2025-10-03T12:00:00Z",
+  "decks": [
+    {
+      "id": "8a6df2e3-8f1f-4a6a-9d33-1ce7fd2c2b65",
+      "name": "Getting Started",
+      "note": "Sample deck to explore revu",
+      "cards": [
+        {
+          "id": "b7f1f395-0df3-4d3a-80ce-5cdcd497a532",
+          "kind": "basic",
+          "front": "What is spaced repetition?",
+          "back": "A study technique that schedules reviews at increasing intervals to maximise retention.",
+          "tags": ["intro", "theory"],
+          "media": [],
+          "createdAt": "2025-10-03T10:00:00Z",
+          "updatedAt": "2025-10-03T10:00:00Z"
+        },
+        {
+          "id": "d13c22a6-dc51-4f55-82a8-0546c6b4f117",
+          "kind": "basic",
+          "front": "Which key reveals a card during study?",
+          "back": "Press the Space bar to reveal the answer.",
+          "tags": ["intro", "controls"],
+          "media": [],
+          "createdAt": "2025-10-03T10:05:00Z",
+          "updatedAt": "2025-10-03T10:05:00Z"
+        },
+        {
+          "id": "d7cf9b67-c0d6-4f28-9b37-a75b58f3c601",
+          "kind": "basic",
+          "front": "Name one grading shortcut for \"Good\".",
+          "back": "Tap the numeric key 3 to grade as Good.",
+          "tags": ["intro", "controls"],
+          "media": [],
+          "createdAt": "2025-10-03T10:10:00Z",
+          "updatedAt": "2025-10-03T10:10:00Z"
+        },
+        {
+          "id": "6adf57bb-0a77-4cbf-9e9f-77c676c4c29f",
+          "kind": "cloze",
+          "clozeSource": "revu schedules reviews using an {{c1::SM-2}} variant.",
+          "tags": ["intro", "scheduler"],
+          "media": [],
+          "createdAt": "2025-10-03T10:12:00Z",
+          "updatedAt": "2025-10-03T10:12:00Z"
+        },
+        {
+          "id": "2e578f47-2cc2-4a8d-9a0f-0a8d57ce63af",
+          "kind": "cloze",
+          "clozeSource": "The default learning steps are {{c1::10 minutes}} and {{c2::1 day}}.",
+          "tags": ["intro", "scheduler"],
+          "media": [],
+          "createdAt": "2025-10-03T10:14:00Z",
+          "updatedAt": "2025-10-03T10:14:00Z"
+        },
+        {
+          "id": "d1b744f5-b22f-48fd-8b90-9b984fe63c62",
+          "kind": "cloze",
+          "clozeSource": "Use the toolbar to {{c1::import}} or {{c2::export}} decks as JSON.",
+          "tags": ["intro", "workflow"],
+          "media": [],
+          "createdAt": "2025-10-03T10:16:00Z",
+          "updatedAt": "2025-10-03T10:16:00Z"
+        }
+      ]
+    }
+  ]
+}
