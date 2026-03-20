@@ -38,7 +38,19 @@ This repository is an older version of the app, published deliberately as a gift
 
 ## Screenshots
 
-Screenshots are not bundled in this initial open-source extraction. Capture fresh images from the current app build so they match the public feature set rather than the private product history.
+These screenshots come from the earlier Revu product materials and still do a good job showing the feel of the macOS app.
+
+### Study Session
+
+![Revu study session](docs/screenshots/languages.png)
+
+### Import Workflow
+
+![Revu import workflow](docs/screenshots/certifications.png)
+
+### Desktop Workspace
+
+![Revu workspace](docs/screenshots/university.png)
 
 ## Requirements
 
