@@ -8,6 +8,7 @@ Decks, cards, exams, study guides, and FSRS-powered review sessions in one deskt
 [![macOS](https://img.shields.io/badge/macOS-14%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/julb/revu-swift)
 [![Swift](https://img.shields.io/badge/Swift-6-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
+[![Download](https://img.shields.io/badge/Download-DMG-brightgreen?style=flat-square)](https://github.com/JuliusBrussee/revu-swift/releases/download/release/Revu-1.0.dmg)
 
 <img src="docs/screenshots/lifelong.png" alt="Revu dashboard showing today's review session, learning intelligence stats, and deck sidebar" width="820">
 
@@ -51,7 +52,14 @@ This is a standalone, fully functional version of the app published as open sour
 </tr>
 </table>
 
-## Getting Started
+## Install
+
+**[Download Revu-1.0.dmg](https://github.com/JuliusBrussee/revu-swift/releases/download/release/Revu-1.0.dmg)** (macOS 14+)
+
+1. Open the DMG and drag **Revu** to **Applications**
+2. On first launch, right-click the app and select **Open** (required once for unsigned apps)
+
+## Build from Source
 
 **Requirements:** macOS 14+, Xcode 16+
 
