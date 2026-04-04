@@ -1,6 +1,6 @@
 <div align="center">
 
-# Revu
+# Revu (Open-Source)
 
 **Local-first spaced repetition for macOS.**\
 Decks, cards, exams, study guides, and FSRS-powered review sessions in one desktop workspace.
