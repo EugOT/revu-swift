@@ -10,6 +10,17 @@ Decks, cards, exams, study guides, and FSRS-powered review sessions in one deskt
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 [![Download](https://img.shields.io/badge/Download-DMG-brightgreen?style=flat-square)](https://github.com/JuliusBrussee/revu-swift/releases/download/release/Revu-1.0.dmg)
 
+<br>
+
+**As featured on**
+
+[![Awesome Swift macOS Apps](https://img.shields.io/github/stars/jaywcjlove/awesome-swift-macos-apps?style=flat-square&logo=github&label=awesome-swift-macos-apps&color=f0a500)](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+[![Awesome Mac](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&logo=github&label=awesome-mac&color=f0a500)](https://github.com/jaywcjlove/awesome-mac)
+[![Awesome FSRS](https://img.shields.io/github/stars/open-spaced-repetition/awesome-fsrs?style=flat-square&logo=github&label=awesome-fsrs&color=f0a500)](https://github.com/open-spaced-repetition/awesome-fsrs)
+[![Awesome SwiftUI](https://img.shields.io/github/stars/onmyway133/awesome-swiftui?style=flat-square&logo=github&label=awesome-swiftui&color=f0a500)](https://github.com/onmyway133/awesome-swiftui)
+
+<br>
+
 <img src="docs/screenshots/lifelong.png" alt="Revu dashboard showing today's review session, learning intelligence stats, and deck sidebar" width="820">
 
 </div>
