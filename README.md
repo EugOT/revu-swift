@@ -134,3 +134,10 @@ Bug reports should include macOS version, reproduction steps, and sample data if
 [GPL-3.0-only](LICENSE). The Revu name and logo are trademarks and are not licensed for reuse under the GPL.
 
 > The commercial product with sync, AI features, and the latest updates lives at [revu.cards](https://revu.cards). This repo is the standalone macOS app -- fully functional, open source, and a solid codebase for anyone interested in local-first software, SwiftUI desktop apps, or spaced-repetition tooling.
+
+---
+
+## Also by Julius Brussee
+
+- **[Caveman](https://github.com/JuliusBrussee/caveman)** — Claude Code skill that cuts ~75% of output tokens by talking like caveman. Same accuracy, way less fluff. `npx skills add JuliusBrussee/caveman`
+- **[Blueprint](https://github.com/JuliusBrussee/blueprint)** — specification-driven development for Claude Code. Natural language → blueprints → parallel builds → working software.
